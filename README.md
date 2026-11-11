@@ -1,7 +1,7 @@
 # Competition-Conditioned Narrative Evolution in Online Social Networks
 
 **Team:** The Outliers  
-**Members:** Anuj Srijan , Mallikarjuna Rao R.V , Deepesh M 
+**Members:** Anuj Srijan , Mallikarjuna Rao R.V , Deepesh M  
 **Institution:** PES University, Bengaluru, India  
 **Course:** Advanced Data Analytics (ADA)
 
