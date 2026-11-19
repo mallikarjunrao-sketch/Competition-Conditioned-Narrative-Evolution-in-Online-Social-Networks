@@ -1,0 +1,6 @@
+component,spearman_raw,spearman_within_narr,n
+comp_stance,-0.001,0.093,272
+comp_sem,-0.241,0.07,272
+comp_growth,-0.082,-0.072,272
+comp_reach,0.378,0.114,272
+pressure_eq,0.003,0.071,272

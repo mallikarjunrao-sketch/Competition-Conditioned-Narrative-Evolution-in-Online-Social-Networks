@@ -1,0 +1,7 @@
+pandas
+pyarrow
+numpy
+scipy
+scikit-learn
+matplotlib
+sentence-transformers   # only needed for --backend st (real embeddings)
